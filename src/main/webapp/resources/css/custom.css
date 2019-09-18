@@ -1,0 +1,7 @@
+.container{
+    margin-top: 50px;
+}
+div.container div.card{
+    width: 60%;
+    margin: auto;
+}
